@@ -30,10 +30,6 @@ Using global datasets from trusted sources like **UN Crime & Demographics**, **O
 
 ---
 
-### ✅ Research Gap & Hypothesis Framing
-- Identified a **missing link** in global crime analysis literature: the **role of age-specific gender ratios** in influencing crime rates.
-- Framed a clear hypothesis and used **structured thinking** to explore it with targeted variables and multi-dimensional breakdowns.
-
 ### 🔧 Data Strategy & Quality Focus
 - Emphasized **data quality early** through profiling: checking nulls, duplicates, outliers, and inconsistencies.
 - Made nuanced decisions like **excluding zeroes in crime columns** (treating them as missing, not true zeros).
@@ -44,7 +40,7 @@ Using global datasets from trusted sources like **UN Crime & Demographics**, **O
 
 ### 🔬 Beyond Surface-Level Insights
 - Went deeper than overall correlations: **segmented by age group, crime type, and region**.
-- Interpreted counter-intuitive results (e.g., education vs. crime) with **hypothesis-driven reasoning** instead of over-simplified conclusions.
+- Interpreted counter-intuitive results (e.g., education vs. crime) with **hypothesis-driven reasoning** 
 
 ### 📐 Statistical Rigor
 - Used **ANOVA + Tukey HSD** to test if crime rate differences across gender ratio groups were statistically significant.
@@ -54,13 +50,6 @@ Using global datasets from trusted sources like **UN Crime & Demographics**, **O
 - Proposed real-world applications: e.g., governments should track male-heavy demographics in crime prevention, and insurers can refine crime-risk pricing.
 - Outlined **future directions** for more granular research in specific regions or cities, with standardized crime definitions.
 
-
----
-
-## 💡 Final Thought
-
-This project showcases not just technical competence, but a **structured analytical mindset**, a deep **curiosity for patterns**, and a commitment to **evidence-based thinking**.  
-It’s a demonstration of how **data can guide smarter decisions** in solving real-world challenges.
 
 
 
